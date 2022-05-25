@@ -4,13 +4,13 @@ Some programming languages I have dabbled in over the past year:
 1. Java
 2. JavaScript
 3. Python
-4. SQL
+4. **SQL**
 5. Haskell
 
 🌶️
 
 Some frameworks I have worked with:
-- React
+- _React_
 - Vue
 - Express
 - NextJS
@@ -24,8 +24,8 @@ Databases I have worked with:
 
 :smile:
 
-Databases I will work with: 
-- AWS Redshift
-- AWS RDS
+Databases I look forward to learn about:
+- [x]  _**AWS Redshift**_
+- [x] **_AWS RDS_**
 
 ❗
